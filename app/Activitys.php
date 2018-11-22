@@ -13,6 +13,6 @@ class Activitys extends Model
         return $this->belongsTo('App\Staff','cid','id');
     }
    	public function dfsdf(){
-   		
+   		return sdfsdfsfddsf;
    	}
 }
